@@ -5,8 +5,7 @@ What's Going On is a "ground-breaking" app that lets users search for where to e
 
 Simply select the date you are visiting on the datepicker calendar and ouila! 
 
-WTF utilizes the Yelp Fusion API and the TicketMaster API, AJAX, Bootstrap, Materialize, Animate.css and Firebase.
+What's Going On utilizes the Yelp Fusion API and the TicketMaster API, AJAX, Bootstrap, Materialize, Animate.css and Firebase.
 
 
-
-https://zmatthews33.github.io/WTF_App/
+https://bwillstorey.github.io/Whats_Going_On_App/
