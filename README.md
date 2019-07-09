@@ -10,4 +10,4 @@ What's Going On utilizes the Yelp Fusion API and the TicketMaster API, AJAX, Boo
 
 
 
-https://bwillstorey.github.io/Whats_Going_On_App/
+https://bwillstorey.github.io/Whats-Going-On/
