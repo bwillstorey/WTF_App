@@ -21,7 +21,7 @@ What's Going On utilizes the Yelp Fusion API, TicketMaster API, AJAX, Bootstrap,
 ![Tech](./assets/images/tech.png)
 
 ## Contributers
-**Zach Matthews** - HTML, CSS, Firebase \ 
+**Zach Matthews** - HTML, CSS, Firebase \
 **Cam Forrest** - Food & Restaurants API (Yelp Fusion) \
 **Brian Storey** -  Events & Concerts API (TicketMaster) \
 **Christian Chavez** - Bars & Nightlife API (Yelp Fusion)
